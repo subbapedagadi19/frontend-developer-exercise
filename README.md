@@ -19,3 +19,12 @@ An understanding of what GoogleBot/BingBot et. al. might be looking for to under
 To complete the exercise, please fork this repository and when complete, send a link to your completed work based on the fork. You may use any web server you'd like, but please provide clear instructions on how we can run your exercise so we may evaluate it.
 
 Good luck!
+
+
+#Steps to Run the project
+
+#The assignmnet has done in vuejs. 
+
+1. Go to the root folder "frontend-developer-exercise"
+2. type the command called "npm install"
+3. Once the node modules are installed type the command "npm run dev" this will make you run the project in browser.
